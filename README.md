@@ -1,2 +1,3 @@
 # sarscov2haplofinder-Public
-Archivos propios 
+Archivos propios de Django
+URL: http://sarscov2haplofinder.urp.edu.pe/
